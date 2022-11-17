@@ -1,0 +1,13 @@
+"/Applications/CLion 21.14.47.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/zhtyrws/CLionProjects/FaceBook
+-- Configuring done
+CMake Error at CMakeLists.txt:7 (add_executable):
+  Cannot find source file:
+
+    cpp
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  No SOURCES given to target: FaceBook
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
