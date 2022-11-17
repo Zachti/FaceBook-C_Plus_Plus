@@ -15,18 +15,18 @@ FaceBook::FaceBook(){
 
 void FaceBook::printMenu(){
     cout << "This is our menu - " << endl;
-    cout << "To add a friend press 1" << endl;
-    cout << "To add a fan page press 2" << endl;
-    cout << "To add a status to friend or fan page press 3" << endl;
-    cout << "To see a friend's or fan page's status press 4" << endl;
-    cout << "To see a specific friend's last 10 statuses press 5" << endl;
-    cout << "To make a friendship with another user press 6" << endl;
-    cout << "To cancel a friendship with another user press 7" << endl;
-    cout << "To add a new fan page press 8" << endl;
-    cout << "To remove a liked fan page press 9" << endl;
-    cout << "To see all the users that currently registered in our system press 10" << endl;
-    cout << "To see all the friends of specific user or fan page press 11" << endl;
-    cout << "To exit from our system press 12" << endl;
+    cout << "To add a friend press -  1" << endl;
+    cout << "To add a fan page press - 2" << endl;
+    cout << "To add a status to friend or fan page press - 3" << endl;
+    cout << "To see a friend's or fan page's status press - 4" << endl;
+    cout << "To see a specific friend's last 10 statuses press - 5" << endl;
+    cout << "To make a friendship with another user press - 6" << endl;
+    cout << "To cancel a friendship with another user press - 7" << endl;
+    cout << "To add a new fan page press - 8" << endl;
+    cout << "To remove a liked fan page press - 9" << endl;
+    cout << "To see all the users that currently registered in our system press - 10" << endl;
+    cout << "To see all the friends of specific user or fan page press - 11" << endl;
+    cout << "To exit from our system press - 12" << endl;
     cout << "Please enter your choice: " << endl;
 }
 
